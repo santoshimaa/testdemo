@@ -2,6 +2,12 @@ package InheritanceProject;
 
 public class Student {
     int roll,mark;
+
+
+
+
+
+
     String name;
     void input()
     {
