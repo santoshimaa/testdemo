@@ -5,6 +5,6 @@ public class Demo1 {
 
     String address;
     string roll;
-    string branch;
+
 
 }
