@@ -4,4 +4,5 @@ public class Demo3 {
   String name;
   String college;
   String branch;
+  int roll;
 }
