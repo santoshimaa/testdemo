@@ -6,4 +6,5 @@ public class Demo3 {
   String branch;
   int roll;
   int accouant;
+  int money;
 }
