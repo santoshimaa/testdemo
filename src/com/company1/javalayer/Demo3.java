@@ -5,4 +5,5 @@ public class Demo3 {
   String college;
   String branch;
   int roll;
+  int accouant;
 }
